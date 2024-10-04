@@ -1,5 +1,5 @@
 Opa Tudo bem? Me chamo Maisterzin e esse é mais um dos meus projetos! Fiz uma pagina de login com um código Base que a IA <a href="https://openai.com/blog/chatgpt/">Chat GPT</a> criou e modifiquei e estilizei ele! Coloquei aluguns sistemas adicionais como:
-- Fundo em Dregrade
+- Fundo em Degrade
 - Botao de Tema Escuro
 - Estilização nos Botões
 - Textos extras
