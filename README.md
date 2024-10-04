@@ -16,7 +16,7 @@ BEFORE (GPT CHAT):
 
 AFTER (MY VERSION):
 
-![image](https://(user-images.githubusercontent.com/88456936/221369686-5d362b1b-b96f-4978-8f0a-76e29d56b313.mp4)
+![image](https://user-images.githubusercontent.com/88456936/221369686-5d362b1b-b96f-4978-8f0a-76e29d56b313.mp4)
 
 <br>
 Any Doubt call me there on Discord <3 @maisteralt
